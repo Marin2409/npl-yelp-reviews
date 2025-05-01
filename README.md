@@ -14,7 +14,6 @@ This repository accompanies the article *Unlocking Language with AI: A Beginnerâ
 - [Code Examples](#code-examples)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## What is NLP?
 
